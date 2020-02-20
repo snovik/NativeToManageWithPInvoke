@@ -12,5 +12,5 @@ void fnNativeWorker()
 
 int compute(int value)
 {
-	return value++;
+	return value + 1;
 }
